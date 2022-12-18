@@ -1,0 +1,26 @@
+
+1. Go to your Intellij and create your own *branch i.e. "your name",
+Please create a new branch from the Local master and check out then work on the your branch,
+(branch name can be your name like Ishak or Nilay)
+2. Create a *class with your username under src->test->java (not under main, under the test)
+Do some *Commits as print out what you would like, i.e;
+
+public static void main(String[] args) {
+        System.out.println("Hello my friends");					//Commit
+        System.out.println("Good luck with the new project");	                //Commit
+        System.out.println("Success to everyone");				//Commit
+    }
+3.Put them into * .gitignore file
+/.idea/
+/target/
+*.iml
+
+4.Push your commits to the remote repo
+5. Go to Github, Compare&Pull request -> create Pull request
+6. Assign a reviewer
+(You can match 2 people then they review each other, every person will assign his/her mate)
+7. Reviewer;
+-> review -> approve -> merge -> delete branch
+(There is a short video how to do it, it is better to see it)
+Generally;
+*These steps are explained in the short videos, don't hesitate to look at them for the correct steps
