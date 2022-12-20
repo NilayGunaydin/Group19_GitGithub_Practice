@@ -6,6 +6,7 @@ public class CevriyeTurkmen {
         System.out.println("Good luck with the new project");
         System.out.println("Success to everyone");
         System.out.println("Try to push src folder");
+        // I cant understand quickly:)
 
 
 
